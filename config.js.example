@@ -1,0 +1,9 @@
+module.exports = {
+  TOKEN: "",
+  id: "",
+  clientSecret: "",
+  DBCONNECTION: "",
+  DEFAULTSETTINGS: {
+    prefix: "."
+  }
+}
